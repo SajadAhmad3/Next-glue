@@ -1,0 +1,7 @@
+[
+    { "path": "/", "label": "HOME" },
+    { "path": "/About", "label": "ABOUT US" },
+    { "path": "/Sermon", "label": "SERMON" },
+    { "path": "/Blog", "label": "BLOG" }
+
+  ]

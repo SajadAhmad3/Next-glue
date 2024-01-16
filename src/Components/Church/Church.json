@@ -1,0 +1,19 @@
+[
+    {
+      "img1": "/images/Icon.svg",
+      "title": "ABOUT US",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+  
+    {
+      "img1": "/images/Icon2.svg",
+      "title": "GET INVOLVED",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+  
+    {
+      "img1": "/images/Icon 3.svg",
+      "title": "GIVING BACK",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+]

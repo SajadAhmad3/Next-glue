@@ -1,0 +1,29 @@
+[
+
+    {
+      "img": "/images/nun.jpg",
+      "title":"WATCH AND LISTEN TO OUR SERMONS",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut."
+    
+    },
+  
+    {
+      "img": "/images/bible.jpg",
+      "title":"WATCH AND LISTEN TO OUR SERMONS",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut."
+    },
+  
+    {
+      "img": "/images/priest.jpg",
+      "title":"WATCH AND LISTEN TO OUR SERMONS",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut."
+    },
+  
+    {
+      "img": "/images/painting.jpg",
+      "title":"WATCH AND LISTEN TO OUR SERMONS",
+      "text":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut."
+    }
+    
+  ]
+  
